@@ -1,5 +1,5 @@
 ---
-title: "🙌 Welcome to womxnbuild's post!"
+title: "Archives"
 ---
 
 Welcome to my first blog post. I plan to talk about how I set up GH pages using GitHub's tutorials. GitHub tutorials have been really easy to follow along and the tools supported to test them out online has been awesome so far. Right now, I am on GH's web editor which is basically VSCode on the web. 
